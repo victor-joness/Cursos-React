@@ -31,7 +31,15 @@
             - Comandos lógicos dentro do html
             - Operação com o uso do && para fazer a renderização de html
 ## Dia 03:
-    -> Hoje iniciamos o projeto e criamos um primeiro componente chamado PromotionCard, ele é bem especifico e por isso criamos ele isoladamente, assim como é o objetivo do react, isolamento e reaproveitamente, separamos eles por pasta e definimos seu nome de acordo com os mesmo, aprendemos a passar uma props como paramentro pro componente e assim acessa-lo pelo propio componente, criei minha const promotion e definir seus valores padroes e passei ele como uma props, depois passei ele como uma props e acessei os valores dentro do meu componente, assim criei a estrutura html e fui definindo os valores padroes seguindo props.pai.valor, logo depois aprendemos sobre conditionalHandle, para fazer a seleção do primeiro comentario, onde eu faço a verificação se tem comentarios no meu objeto e em seguida se for true eu renderizo um bloco que é o primeiro comentario com o uso do [0],logo depois terminamos nossa estrutura, passando todos os dados pre-definidos, isso por conta da gente já saber qual é o formato e como vai vim os dados, pra posteiormente só integrar com a api, depois fazemos um css global e um css local pra o component.
+    -> Hoje iniciamos o projeto e criamos um primeiro componente chamado PromotionCard, ele é bem especifico e por isso criamos ele 
+    isoladamente, assim como é o objetivo do react, isolamento e reaproveitamente, separamos eles por pasta e definimos seu nome de 
+    acordo com os mesmo, aprendemos a passar uma props como paramentro pro componente e assim acessa-lo pelo propio componente, criei 
+    minha const promotion e definir seus valores padroes e passei ele como uma props, depois passei ele como uma props e acessei os
+    valores dentro do meu componente, assim criei a estrutura html e fui definindo os valores padroes seguindo props.pai.valor, logo
+    depois aprendemos sobre conditionalHandle, para fazer a seleção do primeiro comentario, onde eu faço a verificação se tem comen
+    tarios no meu objeto e em seguida se for true eu renderizo um bloco que é o primeiro comentario com o uso do [0],logo depois ter
+    minamos nossa estrutura, passando todos os dados pre-definidos, isso por conta da gente já saber qual é o formato e como vai vim
+    os dados, pra posteiormente só integrar com a api, depois fazemos um css global e um css local pra o component.
         (Pontos chaves):
             -Inicio do projeto
             -Vamos aprender gerenciamento de rotas, de estados, listagem e integração com apis
@@ -40,8 +48,11 @@
             -criação do component PromotionCard e sua estilização
 
 ## Dia 04:
-    -> Hoje aprendi sobre Absolute import, e os conceitos do react router dom, quando foi usado no curso estava na versão 5.2 e agora já estamos na versão 6, ou seja toda a sintaxe mudou, porem com uma rapida pesquisa eu conseguir arrumar sem problemas e aprendi muito com isso, aprendemos tambem como extrair informações da irl, atraves do Hooks UseParams, o qual é bem util pra fins de banco de dados, ids , etc.
-
+    -> Hoje aprendi sobre Absolute import, e os conceitos do react router dom, quando foi usado no curso estava na versão 5.2 e 
+    agora já estamos na versão 6, ou seja toda a sintaxe mudou, porem com uma rapida pesquisa eu conseguir arrumar sem problemas e
+    aprendi muito com isso, aprendemos tambem como extrair informações da irl, atraves do Hooks UseParams, o qual é bem util pra fins
+    de banco de dados, ids , etc.
+    
     jogamos fora a parte de app do arquivo e passamos a chamalo de root, onde será realmente o coração e os diretorios das páginas.
         (Pontos chaves):
             -UseParams()
