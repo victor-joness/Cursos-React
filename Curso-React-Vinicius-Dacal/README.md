@@ -40,15 +40,19 @@
             -criação do component PromotionCard e sua estilização
 
 ## Dia 04:
-    ->
+    -> Hoje aprendi sobre Absolute import, e os conceitos do react router dom, quando foi usado no curso estava na versão 5.2 e agora já estamos na versão 6, ou seja toda a sintaxe mudou, porem com uma rapida pesquisa eu conseguir arrumar sem problemas e aprendi muito com isso, aprendemos tambem como extrair informações da irl, atraves do Hooks UseParams, o qual é bem util pra fins de banco de dados, ids , etc.
 
-
-
+    jogamos fora a parte de app do arquivo e passamos a chamalo de root, onde será realmente o coração e os diretorios das páginas.
+        (Pontos chaves):
+            -UseParams()
+            -Import Absoluto
+            -Gerenciamento de rotas com o React-Router-dom
+            -extrair informações de rotas
+            
+## Dia 05:
 
         (Pontos chaves):
-            -Inicio do projeto
-            -Analize do figma
-            -Vamos aprender gerenciamento de rotas, de estados, listagem e integração com apis
-            -Vamos aprender a fazer modal em react, infinite loader, infinite scroll
-            -Cadastro de produtos
-    
+            -UseParams()
+            -Import Absoluto
+            -Gerenciamento de rotas com o React-Router-dom
+            -extrair informações de rotas
