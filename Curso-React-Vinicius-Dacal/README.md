@@ -50,9 +50,24 @@
             -extrair informações de rotas
             
 ## Dia 05:
+    -> Hoje aprendi a fazer uma api interna, ou seja no local host, usando o axios para fazer os request, usamso a lib json-server que simula um banco de dados, apenas para mandar as infos, vim que podemos fazer o modelo relacional na propia json, atraves da api a gente faz o request, logo trabalhamos com async e await, ou seja promises, porem nesse caso usamos apenas um .then() para vereficar se temos resposta da api. aprendi a usar useEffect, e como fazer-lo para execultar 1 unica vez, quando o componente é renderizado. aprendi a passar os dados da api e salvalos em uma variavel 
+    atraves do useStates(), e com isso podemos usar o .map() para varrer todo o array que usamos o .set() do useState, fazendo toda a varredura do array, podemos passar cada elento dentro do nosso componente promotion card e por consequencia ele irar renderizar tudo na tela. fiz algumas mudanças no css tambem, para ficar mais agradavel a exibição.
+        (Pontos chaves):
+            -useEffect(), useState()
+            -axios
+            -Promises, request, async, await, then.
+            -passar dados de array para um component e o component renderizar todos.
+            -.map(), .reduce(), .filter();
+            -bando de dados local com o json-server
+
+## Dia 06:
+    ->
+
 
         (Pontos chaves):
-            -UseParams()
-            -Import Absoluto
-            -Gerenciamento de rotas com o React-Router-dom
-            -extrair informações de rotas
+            -useEffect(), useState()
+            -axios
+            -Promises, request, async, await, then.
+            -passar dados de array para um component e o component renderizar todos.
+            -.map(), .reduce(), .filter();
+            -bando de dados local com o json-server
